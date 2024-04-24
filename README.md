@@ -29,7 +29,7 @@
 ### While taking Image
 ![MESSI](https://github.com/Abhishek0732/Face-Recognition-Attendance-System/assets/93417069/30af7339-c28b-4485-982a-9ccaf3db76c8)
 
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/only_name/KANYE%20WEST.jpg'>
+![KANYE WEST](https://github.com/Abhishek0732/Face-Recognition-Attendance-System/assets/93417069/7d0defbc-2653-464b-9a04-4a0ef94b08d6)
 
 <img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/only_name/JOE%20BIDEN.jpg'>
 
