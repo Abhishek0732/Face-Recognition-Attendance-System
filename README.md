@@ -33,7 +33,7 @@
 
 ![JOE BIDEN](https://github.com/Abhishek0732/Face-Recognition-Attendance-System/assets/93417069/a7b1db92-8fa7-4f56-aefb-43e9750022de)
 ## Attendance in tabular format 
-![](https://github.com/MusadiqPasha/Face_Recognition/assets/64960566/39da778b-ab6c-4d4b-9398-3355b048ebc2)
+![298380840-39da778b-ab6c-4d4b-9398-3355b048ebc2](https://github.com/Abhishek0732/Face-Recognition-Attendance-System/assets/93417069/b4125934-f768-44bb-ae8d-fe836e7bd3be)
 
 
 ## Just follow me and Star⭐ my repository 
