@@ -23,7 +23,7 @@
 ### Screenshots
 
 ### Simple UI
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+![GUI U K](https://github.com/Abhishek0732/Face-Recognition-Attendance-System/assets/93417069/de97c027-ed5d-4e2f-bf3a-e05bf1cdf9b1)
 
 
 ### While taking Image
